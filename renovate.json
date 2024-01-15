@@ -5,5 +5,11 @@
   ],
   "cargo": {
     "fileMatch": ["(^|/)Scarb\\.toml$"]
-  }
+  },
+  "hostRules": [
+    {
+      "matchHost": "https://github.com/oayras/dojo",
+      "token": "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"
+    }
+  ]
 }
