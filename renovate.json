@@ -8,8 +8,7 @@
   },
   "hostRules": [
     {
-      "matchHost": "https://github.com/oayras/dojo",
-      "token": "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"
+      "matchHost": "https://github.com/dojoengine/dojo"
     }
   ]
 }
