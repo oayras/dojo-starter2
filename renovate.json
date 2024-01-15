@@ -4,7 +4,9 @@
     "config:recommended"
   ],
   "cargo": {
-    "fileMatch": ["(^|/)Scarb\\.toml$"]
+    "commitMessageTopic": "ODAS - new commit to PR {{depName}}",
+    "fileMatch": ["(^|/)Scarb\\.toml$"],
+    "versioning": "cargo"
   },
   "hostRules": [
     {
